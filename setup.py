@@ -34,7 +34,7 @@ setup(
         'numpy',
         'matplotlib',
         'pandas',
-        'vtk~=9.0.3',
+        'vtk',
         'vedo~=2021.0.5',
         'PySide2',
         'treelib~=1.6.1',
